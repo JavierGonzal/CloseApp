@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CloseApp</string>
+    <string name="hello_world">The developer world is yours</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_the_developer_world_is_yours">TheDeveloperWorldIsYours</string>
+    <string name="secondActivity">Second Activity</string>
+    <string name="close">Close</string>
+
+</resources>
